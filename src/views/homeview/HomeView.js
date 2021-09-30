@@ -7,6 +7,7 @@ export const HomeView = () => {
   return (
     <main>
       <section>
+        <p> This is new </p>
         <p>Browse our vast selection of </p>
         <h2>Unique Blends from all over the World</h2>
         {/* Three cards */}
